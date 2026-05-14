@@ -1,9 +1,9 @@
 # Hi! 👋
 <pre>
-  💻 Aspiring SOC Specialist | Software Developer | QA Tester
+  💻 IT Technician | Systems Diagnostics & Operations | Software Developer 
   🎮 Unreal Engine 5 | Unity 6 | Blender 
-  ⌨️ C++ | C#
-  🛠️ Git | Jira | Visual Studio | VS Code
+  ⌨️ C++ | C# | Kotlin
+  🛠️ Git | Jira | Visual Studio | VS Code | Android Studio
 </pre>
 # My Projects
 🌀[**Project Portal**](https://github.com/Snefee/ProjectPortal) - A recreation of Valve's *Portal* mechanics in Unreal Engine 5 <br>
